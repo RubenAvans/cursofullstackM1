@@ -2,3 +2,5 @@ pan
 manzana
 detergente
 ropa
+bananas
+trapos de piso
